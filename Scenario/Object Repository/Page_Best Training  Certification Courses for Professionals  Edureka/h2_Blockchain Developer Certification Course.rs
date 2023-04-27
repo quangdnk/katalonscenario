@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Blockchain Developer Certification Course</name>
+   <tag></tag>
+   <elementGuidId>3b7d3f5a-829f-48e2-8aca-0396031a99d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pills-all-course']/div[2]/div[2]/div/div/a/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>ecd57591-b5d3-4190-acce-c612bc630d70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>40bcd4a6-c7bd-4d3d-b613-c242cb8a2550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+      <webElementGuid>0cc238e2-9bc2-4060-99f6-3567b8dfb4cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placement</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>69c6c60f-c02e-458b-b10e-c4528d3096dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Blockchain Developer Certification Course</value>
+      <webElementGuid>97ada3ed-703e-477e-8a4e-5876a48d9093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Blockchain Developer Certification Course</value>
+      <webElementGuid>d3d0a85e-6716-4c57-8d0f-58086c77f32c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pills-all-course&quot;)/div[@class=&quot;live_course_list&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 col-md-6 col-sm-12 col-xs-12 course_card_bx&quot;]/div[@class=&quot;course_card_info&quot;]/a[@class=&quot;ga-event-click ga4-event-click&quot;]/h2[@class=&quot;title&quot;]</value>
+      <webElementGuid>3817d8ba-45b5-4df2-b27f-0a4791b6da70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pills-all-course']/div[2]/div[2]/div/div/a/h2</value>
+      <webElementGuid>38d58635-62c9-4ef4-8db8-7a393ad0a940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Life-time Access'])[1]/following::h2[1]</value>
+      <webElementGuid>1f5ca7db-4021-4535-93f2-0fa4c347e6e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live Class'])[1]/following::h2[1]</value>
+      <webElementGuid>c8ed0dbd-64ac-4491-bff1-dd10eefaae03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Includes Bitcoin, Ethereum, Hyperledger, MultiChain. + 3 more'])[1]/preceding::h2[1]</value>
+      <webElementGuid>6cd99e6a-ac9e-4743-b917-312db84f915f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edureka Certificate'])[1]/preceding::h2[1]</value>
+      <webElementGuid>7ac3ec91-2916-47f2-b627-cf93b625225d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Blockchain Developer Certification Course']/parent::*</value>
+      <webElementGuid>0c0d75a3-ed6f-40ac-b853-d3f3d5bc87da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>2496ebd5-c6ea-4f08-afb9-8b7a3350415e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@title = 'Blockchain Developer Certification Course' and (text() = 'Blockchain Developer Certification Course' or . = 'Blockchain Developer Certification Course')]</value>
+      <webElementGuid>6a8f4659-6368-40b1-bab4-ea6ca45c6ff4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

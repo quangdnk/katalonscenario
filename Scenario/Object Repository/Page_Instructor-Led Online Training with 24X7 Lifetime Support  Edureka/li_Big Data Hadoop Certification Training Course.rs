@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Big Data Hadoop Certification Training Course</name>
+   <tag></tag>
+   <elementGuidId>545cb2d5-f06f-4972-b57b-f8cf1c2dd64f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#searchTab_6 > ul > li</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='searchTab_6']/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>67b61243-d21a-49e3-90f1-138bdb8e1634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Big Data Hadoop Certification Training Course</value>
+      <webElementGuid>0c90d3c3-4f1b-4f6d-85c7-aceb54e6a4c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchTab_6&quot;)/ul[1]/li[1]</value>
+      <webElementGuid>d8c5eb2d-41c4-4a0d-b4e5-cbd499437a67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='searchTab_6']/ul/li</value>
+      <webElementGuid>7f931d3a-7c28-4e34-bda6-4ad50e8f0729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All Courses'])[7]/following::li[1]</value>
+      <webElementGuid>6a8eb75a-c8ba-4805-b4ad-28661cf56b5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Analytics Masters Program'])[6]/following::li[1]</value>
+      <webElementGuid>d7d5d82d-9370-44be-9732-513190307756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apache Spark and Scala Certification Training Course'])[4]/preceding::li[1]</value>
+      <webElementGuid>8c721d5e-b8c9-42c9-936f-a9e3443a671a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/ul/li</value>
+      <webElementGuid>6c332a6e-edf7-4859-813c-5a48551a5c5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Big Data Hadoop Certification Training Course' or . = 'Big Data Hadoop Certification Training Course')]</value>
+      <webElementGuid>ba099df2-404b-40ab-9635-68dce6ed7c39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
